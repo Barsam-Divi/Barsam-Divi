@@ -18,13 +18,13 @@
       <a href="https://github.com/username/repository1" target="_blank" style="text-decoration: none; color: #0366d6; font-size: 18px;">
         <strong>پروژه ۱: وبسایت با PHP</strong>
       </a>
-      <p>توسعه‌دهنده بک‌اند این وبسایت با استفاده از PHP.</p>
+      <p>توسعه‌  بک‌اند این وبسایت با استفاده از PHP.</p>
     </li>
     <li style="margin: 10px 0;">
       <a href="https://github.com/username/repository2" target="_blank" style="text-decoration: none; color: #0366d6; font-size: 18px;">
         <strong>پروژه ۲: وبسایت با Laravel</strong>
       </a>
-      <p>ساخت و توسعه کامل این وبسایت با استفاده از فریم‌ورک Laravel.</p>
+      <p>ساخت و توسعه  وبسایت با استفاده از فریم‌ورک Laravel.</p>
     </li>
     <li style="margin: 10px 0;">
       <a href="https://github.com/username/repository3" target="_blank" style="text-decoration: none; color: #0366d6; font-size: 18px;">
