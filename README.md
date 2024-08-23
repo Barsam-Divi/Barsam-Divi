@@ -16,19 +16,22 @@
   <ul style="list-style-type: none; padding: 0; text-align: center;">
     <li style="margin: 10px 0;">
       <a href="https://github.com/username/repository1" target="_blank" style="text-decoration: none; color: #0366d6; font-size: 18px;">
-        <strong>نمونه‌کار ۱</strong>
+        <strong>پروژه ۱: وبسایت با PHP</strong>
       </a>
+      <p>توسعه‌دهنده بک‌اند این وبسایت با استفاده از PHP.</p>
     </li>
     <li style="margin: 10px 0;">
       <a href="https://github.com/username/repository2" target="_blank" style="text-decoration: none; color: #0366d6; font-size: 18px;">
-        <strong>نمونه‌کار ۲</strong>
+        <strong>پروژه ۲: وبسایت با Laravel</strong>
       </a>
+      <p>ساخت و توسعه کامل این وبسایت با استفاده از فریم‌ورک Laravel.</p>
     </li>
     <li style="margin: 10px 0;">
       <a href="https://github.com/username/repository3" target="_blank" style="text-decoration: none; color: #0366d6; font-size: 18px;">
-        <strong>نمونه‌کار ۳</strong>
+        <strong>پروژه ۳: API با Laravel</strong>
       </a>
+      <p>توسعه یک API با استفاده از فریم‌ورک Laravel.</p>
     </li>
-    
+    <!-- اضافه کردن لینک‌های دیگر به نمونه‌کارها بر اساس نیاز -->
   </ul>
 </div>
