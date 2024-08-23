@@ -12,19 +12,21 @@
 
 <h3 align='center'>نمونه‌کارهای من</h3>
 
+<hr style="border: 1px solid #ccc; margin: 20px auto; width: 80%;">
+
 <div style="border: 2px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9; width: fit-content; margin: auto;">
   <ul style="list-style-type: none; padding: 0; text-align: center;">
     <li style="margin: 10px 0;">
       <a href="https://github.com/username/repository1" target="_blank" style="text-decoration: none; color: #0366d6; font-size: 18px;">
         <strong>پروژه ۱: وبسایت با PHP</strong>
       </a>
-      <p>توسعه‌  بک‌اند  وبسایت با استفاده از PHP.</p>
+      <p>توسعه‌ بک‌اند وبسایت با استفاده از PHP.</p>
     </li>
     <li style="margin: 10px 0;">
       <a href="https://github.com/username/repository2" target="_blank" style="text-decoration: none; color: #0366d6; font-size: 18px;">
         <strong>پروژه ۲: وبسایت با Laravel</strong>
       </a>
-      <p>ساخت و توسعه  وبسایت با استفاده از فریم‌ورک Laravel.</p>
+      <p>ساخت و توسعه وبسایت با استفاده از فریم‌ورک Laravel.</p>
     </li>
     <li style="margin: 10px 0;">
       <a href="https://github.com/username/repository3" target="_blank" style="text-decoration: none; color: #0366d6; font-size: 18px;">
@@ -32,6 +34,5 @@
       </a>
       <p>توسعه یک API با استفاده از فریم‌ورک Laravel.</p>
     </li>
-    <!-- اضافه کردن لینک‌های دیگر به نمونه‌کارها بر اساس نیاز -->
   </ul>
 </div>
