@@ -66,37 +66,26 @@
     </style>
 </head>
 <body>
-
-    <!-- دکمه‌های تغییر زبان -->
     <div class="language-buttons">
         <button onclick="changeLanguage('fa')">فارسی</button>
         <button onclick="changeLanguage('en')">English</button>
     </div>
-
-    <!-- تصاویر و متون -->
     <img align='center' src='https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg' alt="GitHub Contribution Grid">
-
     <h2 id="title-fa">سلام👋 من برسام هستم</h2>
     <h2 id="title-en" class="hidden">Hello👋 I'm Barsam</h2>
-
     <p id="description-fa">متولد ۱۳۸۲، برنامه‌نویس PHP 🐘 و دانشجوی ترم چهارم مهندسی کامپیوتر 🎓. برنامه‌نویسی را از اواخر دوران دبیرستان آغاز کرده‌ام و علاقه زیادی به دنیای کامپیوتر دارم. مشتاق یادگیری زبان‌های برنامه‌نویسی جدید و ورود به دنیای شبکه‌های کامپیوتری هستم. در حال حاضر به دنبال یک شرکت مناسب برای گذراندن دوره کارآموزی‌ام می‌باشم.</p>
     <p id="description-en" class="hidden">Born in 1983, I am a PHP developer 🐘 and a fourth-semester Computer Engineering student 🎓. I started programming in the later years of high school and have a strong interest in the world of computers. I am eager to learn new programming languages and enter the field of computer networks. Currently, I am looking for a suitable company for my internship.</p>
-
     <h3 id="skills-title-fa" class="hidden">My Skills</h3>
     <h3 id="skills-title-en">مهارت‌های من</h3>
-
     <div class="skills">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
         <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
-    </div>
-    
+    </div>    
     <h3 id="projects-title-fa" class="hidden">My Projects</h3>
     <h3 id="projects-title-en">نمونه‌کارهای من</h3>
-
     <hr>
-
     <div class="projects">
         <ul>
             <li>
@@ -125,13 +114,10 @@
             </li>
         </ul>
     </div>
-
     <script>
         function changeLanguage(lang) {
-            // انتخاب عناصر بر اساس زبان
             var elementsFa = document.querySelectorAll('[id$="-fa"]');
             var elementsEn = document.querySelectorAll('[id$="-en"]');
-
             if (lang === 'fa') {
                 elementsFa.forEach(element => element.classList.remove('hidden'));
                 elementsEn.forEach(element => element.classList.add('hidden'));
